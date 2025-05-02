@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Editor folders
+.vscode/
+.idea/
+
+# FAISS and model files
+faiss_index/
+*.pt
+*.bin
+*.pkl
+*.npy
+
+# Hugging Face cache
+.cache/
+~/.cache/
+
