@@ -1,0 +1,104 @@
+
+[
+    {
+        "question": "What is the company's policy on remote work?",
+        "answer": "Our company offers a hybrid work model. Employees can work remotely up to 3 days per week, with in-office presence required on Tuesdays and Thursdays for team meetings and collaboration. Department heads may adjust this policy based on project needs. Employees must ensure they have reliable internet connection and a secure workspace when working remotely.",
+        "category": "remote_work"
+    },
+    {
+        "question": "How many vacation days am I entitled to per year?",
+        "answer": "Full-time employees receive 15 paid vacation days annually, accrued at 1.25 days per month. After 3 years of service, this increases to 20 days. Unused vacation days (up to 5) can be carried over to the next calendar year. Vacation requests must be submitted at least 2 weeks in advance through the HR portal.",
+        "category": "leave_policy"
+    },
+    {
+        "question": "What is the process for performance reviews?",
+        "answer": "Performance reviews are conducted bi-annually in June and December. The process includes self-assessment, manager evaluation, and a one-on-one meeting to discuss achievements, areas for improvement, and career development. Ratings are on a 5-point scale, and compensation adjustments are considered during the December review cycle.",
+        "category": "performance"
+    },
+    {
+        "question": "What is the company's policy on confidentiality and data protection?",
+        "answer": "All employees are required to maintain the confidentiality of sensitive company and client information. Upon hiring, employees sign a confidentiality agreement that remains in effect during and after employment. Company data should only be accessed on approved devices with up-to-date security software. Sharing of confidential information is permitted only on a need-to-know basis with authorized personnel. Any data breach or loss must be reported immediately to the IT department at security@company.com. Violations of the confidentiality policy may result in disciplinary action up to and including termination.",
+        "category": "information_security"
+    },
+    {
+        "question": "How do I request an internal transfer to another department?",
+        "answer": "Employees interested in internal transfers must have been in their current position for at least 12 months and be in good standing with no active performance improvement plans. The process begins by discussing your interest with your current manager, then applying for open positions through the internal job board. Your application will be considered alongside external candidates based on qualifications. If selected for an interview, HR will coordinate with all parties. Transfers typically take effect within 30 days of acceptance. Your current manager cannot block a transfer but can negotiate the transition timeline.",
+        "category": "career_development"
+    },
+    {
+        "question": "What is the bereavement leave policy?",
+        "answer": "The company provides paid bereavement leave to support employees during times of loss. Employees receive 5 days of paid leave for the death of an immediate family member (spouse, child, parent, sibling, grandparent, or grandchild, including step-relations and in-laws). 2 days of paid leave is available for extended family members. Additional unpaid time may be approved by management if needed. Employees should notify their manager as soon as possible and submit the bereavement leave request through the HR portal. Documentation such as an obituary or funeral program may be requested upon return.",
+        "category": "leave_policy"
+    },
+    {
+        "question": "How does the annual bonus program work?",
+        "answer": "The company's annual bonus program is based on both company and individual performance. Bonuses are calculated as a percentage of base salary, ranging from 5-20% depending on position level. The bonus pool is funded based on company financial performance against annual targets. Individual bonuses are then determined by personal performance ratings from the year-end review process. Employees must be employed on the bonus payment date (typically March 15) to receive payment. New employees who join before October 1 are eligible for a prorated bonus based on months of service.",
+        "category": "compensation"
+    },
+    {
+        "question": "What is the company's sustainability policy and green initiatives?",
+        "answer": "The company is committed to environmental sustainability through several initiatives. We maintain a paperless office policy wherever possible and provide recycling stations throughout all facilities. Energy-efficient lighting and equipment are standard in all locations. Employees are encouraged to participate in our Green Committee, which meets monthly to develop new sustainability projects. We offer subsidized public transportation passes and have electric vehicle charging stations in the main office parking areas. The company also organizes quarterly volunteer events focused on environmental causes and tracks our carbon footprint with annual reduction goals.",
+        "category": "company_culture"
+    },
+    {
+        "question": "What is the company's policy on overtime and compensation?",
+        "answer": "Non-exempt employees are eligible for overtime pay at 1.5 times their regular hourly rate for hours worked beyond 40 in a workweek. All overtime must be approved in advance by a manager. Exempt employees are not eligible for overtime compensation but may receive compensatory time off at management's discretion for significant additional hours worked. Time worked must be accurately recorded in the company's time tracking system. The workweek is defined as Sunday through Saturday for overtime calculation purposes.",
+        "category": "compensation"
+    },
+    {
+        "question": "How do I request accommodations for a disability?",
+        "answer": "The company is committed to providing reasonable accommodations for employees with disabilities. To request an accommodation, employees should contact HR directly at accommodations@company.com or speak with their manager who will initiate the process with HR. Medical documentation may be requested to support the need for accommodation. HR will engage in an interactive process with the employee to identify appropriate accommodations. All disability-related information is kept confidential and separate from regular personnel files.",
+        "category": "workplace_policies"
+    },
+    {
+        "question": "What is the company's travel expense reimbursement policy?",
+        "answer": "Business travel expenses are reimbursable when properly documented and approved. Employees must submit expense reports within 30 days of travel completion through the expense management system. Receipts are required for all expenses over $25. Approved expenses include economy class airfare, standard hotel rooms, ground transportation, meals (capped at $75 per day), and necessary business materials. Personal expenses such as in-room movies, alcohol, or upgrades are not reimbursable. Managers must approve all expense reports before reimbursement is processed.",
+        "category": "finance"
+    },
+    {
+        "question": "How does the employee referral program work?",
+        "answer": "Our employee referral program rewards employees who refer successful candidates. When your referral is hired and completes 90 days of employment, you receive a $1,500 bonus for non-management positions and $3,000 for management or specialized roles. To submit a referral, send the candidate's resume to referrals@company.com with your name in the subject line. The referral is valid for 12 months from submission. All referred candidates go through the standard hiring process. Employees in HR and hiring managers for the open position are not eligible for referral bonuses.",
+        "category": "recruitment"
+    },
+    {
+        "question": "What mental health resources does the company provide?",
+        "answer": "The company provides several mental health resources for employees. Our Employee Assistance Program (EAP) offers confidential counseling services with up to 8 free sessions per issue annually. The health insurance plan includes mental health coverage with in-network providers requiring only a $25 copay. Employees also have access to the Headspace meditation app at no cost. The company observes mental health awareness days and encourages employees to take mental health days as needed using sick leave. Managers receive training on supporting employee mental wellbeing and recognizing signs of burnout.",
+        "category": "benefits"
+    },
+    {
+        "question": "What is the company's parental leave policy?",
+        "answer": "The company provides 12 weeks of paid parental leave for primary caregivers and 4 weeks for secondary caregivers following the birth or adoption of a child. This benefit is available to full-time employees who have been with the company for at least 1 year. Employees should notify their manager and HR at least 30 days before the anticipated leave date. Benefits continue during parental leave, and employees return to their same or equivalent position.",
+        "category": "leave_policy"
+    },
+    {
+        "question": "How does the 401(k) retirement plan work?",
+        "answer": "Our company offers a 401(k) retirement plan to all full-time employees after 90 days of employment. The company matches 100% of employee contributions up to 4% of annual salary. Employees become fully vested in the company match after 3 years of service. Fund options include various index funds, target date funds, and ESG investments. Employees can adjust their contribution percentage or investment allocations at any time through the benefits portal.",
+        "category": "benefits"
+    },
+    {
+        "question": "What professional development opportunities are available?",
+        "answer": "The company supports employee growth through various professional development programs. Each employee receives an annual learning stipend of $1,500 for external courses, certifications, or conferences relevant to their role. Internal workshops and lunch-and-learns are held monthly. Employees can also participate in cross-departmental projects to gain new skills. Development goals are formally discussed during performance reviews, and managers are encouraged to create individualized development plans with team members.",
+        "category": "career_development"
+    },
+    {
+        "question": "What is the process for reporting workplace harassment?",
+        "answer": "The company has a zero-tolerance policy for workplace harassment. Employees who experience or witness harassment should report it immediately through one of these channels: directly to their manager, to HR either in person or via email at hr@company.com, or through our anonymous ethics hotline at 1-800-555-0123. All reports are investigated confidentially within 5 business days. Retaliation against anyone who reports harassment is strictly prohibited and will result in disciplinary action up to and including termination.",
+        "category": "workplace_policies"
+    },
+    {
+        "question": "What is the dress code policy?",
+        "answer": "The company maintains a business casual dress code in the office. Acceptable attire includes slacks, khakis, dresses, skirts, collared shirts, blouses, sweaters, and closed-toe shoes. Items not permitted include ripped jeans, athletic wear, shorts, flip-flops, and clothing with offensive messages. Fridays are designated as casual days when jeans are acceptable. When meeting with clients or external partners, business professional attire is expected. Employees with specific questions about appropriate attire should consult with their manager or HR.",
+        "category": "workplace_policies"
+    }
+    
+    
+]
+
+
+
+
+
+
+
+
+

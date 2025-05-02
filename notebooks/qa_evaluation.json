@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Do employees get dental insurance?",
+        "answer": "I don't know.\nI couldn’t find information about this. You might try rephrasing your question.",
+        "response_type": "don't know"
+    },
+    {
+        "question": "What mental health support is available?",
+        "answer": "The company offers mental health support through its Employee Assistance Program (EAP), which provides up to 8 free confidential counseling sessions annually per issue. The health insurance plan includes mental health coverage with a $25 copay for in-network providers. Employees also have free access to the Headspace meditation app, and the company supports mental health awareness days and allows mental health days as needed.",
+        "response_type": "has answer"
+    },
+    {
+        "question": "Is there a bonus for joining this year?",
+        "answer": "New employees who join before October 1 are eligible for a prorated bonus based on months of service. If joining after October 1, there is no bonus eligibility.",
+        "response_type": "has answer"
+    },
+    {
+        "question": "What’s the bereavement leave duration?",
+        "answer": "The bereavement leave duration is **5 paid days** for the death of an immediate family member (spouse, child, parent, sibling, grandparent, grandchild, or step/in-law relatives) and **2 paid days** for extended family members. Additional unpaid time may be approved by management if needed.",
+        "response_type": "has answer"
+    },
+    {
+        "question": "What is the company policy on parental leave?",
+        "answer": "The company provides 12 weeks of paid parental leave for primary caregivers and 4 weeks for secondary caregivers following the birth or adoption of a child. This benefit is available to full-time employees who have been with the company for at least 1 year. Employees should notify their manager and HR at least 30 days before the anticipated leave date. Benefits continue during parental leave, and employees return to their same or equivalent position.",
+        "response_type": "has answer"
+    },
+    {
+        "question": "is the parental leave available?",
+        "answer": "Yes, the company's parental leave is available to full-time employees who have been with the company for at least 1 year. It provides 12 weeks of paid leave for primary caregivers and 4 weeks for secondary caregivers following the birth or adoption of a child. Employees must notify their manager and HR at least 30 days before the anticipated leave date.",
+        "response_type": "has answer"
+    }
+]
